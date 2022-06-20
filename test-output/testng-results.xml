@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T17:55:05 IST" name="Default suite" finished-at="2022-06-20T17:55:06 IST" duration-ms="1754">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T17:55:05 IST" name="Default test" finished-at="2022-06-20T17:55:06 IST" duration-ms="1754">
+      <class name="com.wallet.TestScripts.facebookLoginandDialogueDisplay">
+        <test-method is-config="true" signature="ConfigFileReader()[pri:0, instance:com.wallet.TestScripts.facebookLoginandDialogueDisplay@4dc27487]" started-at="2022-06-20T17:55:05 IST" name="ConfigFileReader" finished-at="2022-06-20T17:55:05 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigFileReader -->
+        <test-method is-config="true" signature="setupBeforeSuite()[pri:0, instance:com.wallet.TestScripts.facebookLoginandDialogueDisplay@4dc27487]" started-at="2022-06-20T17:55:05 IST" name="setupBeforeSuite" finished-at="2022-06-20T17:55:06 IST" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeSuite -->
+        <test-method signature="loginFBandPostMsg()[pri:0, instance:com.wallet.TestScripts.facebookLoginandDialogueDisplay@4dc27487]" started-at="2022-06-20T17:55:06 IST" name="loginFBandPostMsg" finished-at="2022-06-20T17:55:06 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFBandPostMsg -->
+        <test-method is-config="true" signature="quitDown()[pri:0, instance:com.wallet.TestScripts.facebookLoginandDialogueDisplay@4dc27487]" started-at="2022-06-20T17:55:06 IST" name="quitDown" finished-at="2022-06-20T17:55:06 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDown -->
+      </class> <!-- com.wallet.TestScripts.facebookLoginandDialogueDisplay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
