@@ -9,7 +9,7 @@ public class excelUtility {
 	static XSSFWorkbook workbook;
 	static XSSFSheet sheet;
 	
-	public excelUtility(String excelPath,String sheetName) {
+	public excelUtility(String string, String string2) {
 		try {
 		//projectPath = System.getProperty("user.dir");
 		workbook = new XSSFWorkbook("excelPath");
